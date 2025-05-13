@@ -215,7 +215,7 @@ Console.WriteLine(result);
 //
 // int number1;
 // bool res = Int32.TryParse(Console.ReadLine(), out number1);
-//
+
 // if (true)
 // {
 //     Console.WriteLine(number1);
