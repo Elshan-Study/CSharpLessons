@@ -23,7 +23,6 @@ namespace CSharpLesson;
 
 #endregion
 
-
 #region CastingAndNullable
 
 // для преобразования в строку ToString()
